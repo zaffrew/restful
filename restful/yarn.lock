@@ -1078,6 +1078,13 @@
     wcwidth "^1.0.1"
     ws "^1.1.0"
 
+"@react-native-community/datetimepicker@^2.1.2":
+  version "2.1.2"
+  resolved "https://registry.yarnpkg.com/@react-native-community/datetimepicker/-/datetimepicker-2.1.2.tgz#2a60ccbfcd85fdebfb8c51e613d99c288c020fc0"
+  integrity sha512-lAatG0nbW9tSa0VH8nx7N+hz3gkKq+D1kpnktg0Xv5MCsoj3DCc+bCQaiyGxyU+ipkOAZDfQBbzXbSZzl+1iCg==
+  dependencies:
+    invariant "^2.2.4"
+
 "@types/fbemitter@^2.0.32":
   version "2.0.32"
   resolved "https://registry.yarnpkg.com/@types/fbemitter/-/fbemitter-2.0.32.tgz#8ed204da0f54e9c8eaec31b1eec91e25132d082c"
